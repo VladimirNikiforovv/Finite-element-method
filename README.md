@@ -8,6 +8,8 @@
 ## Выводимые результаты  ##
 
 Распространение тепла по некоторой области.
+<img src='heat_2d_gauss60.2.gif' width=500, heigth=500>
 
 
 Движение волнового пакета.
+<img src='psi_wave_packet.gif' width=500, heigth=500>
